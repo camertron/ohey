@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/camertron/ohey.svg?branch=master)](https://travis-ci.com/camertron/ohey)
+
 ## ohey
 A rewrite of the platform detection logic in ohai, but with fewer dependencies and 100% less metaprogramming.
 
