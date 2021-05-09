@@ -4,6 +4,7 @@ gemspec
 
 group :development, :test do
   gem 'pry-byebug'
+  gem 'rake'
 end
 
 group :test do
